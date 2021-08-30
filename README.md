@@ -28,5 +28,3 @@
 
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711533499806515220)(https://discord.com/users/711533499806515220)
-![Discord Banner 4](https://discordapp.com/api/guilds/858104290639740928/widget.png?style=banner4)
-
