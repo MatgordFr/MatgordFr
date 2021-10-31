@@ -1,8 +1,8 @@
 <h1 align="center">Salut à toi 👋</h1>
 
-###  Je suis Mat.fr.
+###  Je suis MatgordFR.
 
-- 🔍 Je travaille actuellement sur le projet [FR・Skanix Community](discord.gg/KdDA2y539u).
+- 🔍 Je travaille actuellement sur le projet site Web.
 - 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
 - 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
 - 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
