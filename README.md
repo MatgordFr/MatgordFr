@@ -1,6 +1,6 @@
-<h1 align="center">Salut à toi 👋</h1>
+<h1 align="center">Welcome</h1>
 
-###  Je suis MatgordFR.
+###  Je suis MatgordFR. <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="16px"/> ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=MatgordFr.MatgordFr)
 
 - 🔍 Je travaille actuellement sur le projet site Web.
 - 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
