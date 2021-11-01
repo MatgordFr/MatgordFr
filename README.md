@@ -29,4 +29,3 @@
 <h1 align="center">Discord Presence</h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711533499806515220)](https://discord.com/users/711533499806515220)
-
