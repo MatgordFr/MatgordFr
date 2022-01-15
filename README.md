@@ -9,8 +9,8 @@
 </p>
 
 
-- 🔍 Je travaille actuellement sur le projet site Web.
-- 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
+- 🔍 Je travaille actuellement sur un gros projet.
+- 🚀 Comment me joindre ? [Profil Discord](https://discord.com/users/711533499806515220).
 - 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
 - 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
 
